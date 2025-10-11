@@ -5,8 +5,10 @@ from selenium.webdriver.ie.service import Service
 from selenium.webdriver.common.by import By
 
 #if company uses vpn or something use this & its faster
-serv_obj = Service("/home/raghu/Downloads/chromedriver-linux64/chromedriver")
-driver = webdriver.Chrome(service = serv_obj)
+# serv_obj = Service("/home/raghu/Downloads/chromedriver-linux64/chromedriver")
+# driver = webdriver.Chrome(service = serv_obj)
+
+driver = webdriver.Chrome()
 
 
 try:
