@@ -1,5 +1,14 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore logs and other temp files
+*.log
