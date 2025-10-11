@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9d0845f-7a9e-4b2f-9bed-dbad58297ff9" name="Changes" comment="" />
+    <list default="true" id="e9d0845f-7a9e-4b2f-9bed-dbad58297ff9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTesting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,32 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.First.executor": "Run",
-    "Python.New.executor": "Run",
-    "Python.New2.executor": "Run",
-    "Python.New3.executor": "Run",
-    "Python.New4.executor": "Run",
-    "Python.New5.executor": "Run",
-    "Python.Sel1.executor": "Run",
-    "Python.Strings.executor": "Run",
-    "Python.Writefl.executor": "Run",
-    "Python.XDF.executor": "Run",
-    "Python.Xfi1.executor": "Run",
-    "Python.exp.executor": "Run",
-    "Python.newxd.executor": "Run",
-    "Python.readWrite.executor": "Run",
-    "Python.tyca.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/raghu/Python_Projects/PythonTesting",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.First.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sel1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Writefl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XDF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xfi1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newxd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tyca.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/raghu/Python_Projects/PythonTesting&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
