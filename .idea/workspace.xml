@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d0845f-7a9e-4b2f-9bed-dbad58297ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonSelenium/Forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTesting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/GreenKart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/QAClickDynDrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/UiControls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/jsAlerts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonSelenium/locator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonSelenium/locator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +47,16 @@
     "Python.New3.executor": "Run",
     "Python.New4.executor": "Run",
     "Python.New5.executor": "Run",
+    "Python.QAClickDynDrop.executor": "Run",
     "Python.Sel1.executor": "Run",
     "Python.Strings.executor": "Run",
+    "Python.UiControls.executor": "Run",
     "Python.Writefl.executor": "Run",
     "Python.XDF.executor": "Run",
     "Python.Xfi1.executor": "Run",
+    "Python.dropdowns.executor": "Run",
     "Python.exp.executor": "Run",
+    "Python.jsAlerts.executor": "Run",
     "Python.locator.executor": "Run",
     "Python.newxd.executor": "Run",
     "Python.readWrite.executor": "Run",
@@ -74,7 +78,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Forms">
+  <component name="RunManager" selected="Python.jsAlerts">
     <configuration name="Forms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="ENV_FILES" value="" />
@@ -97,29 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XDF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTesting" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythTest/XDF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="locator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QAClickDynDrop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/locator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/QAClickDynDrop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="newxd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="UiControls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/PythonSel" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/PythonSel/newxd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/UiControls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tyca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dropdowns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +154,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/tyca.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/dropdowns.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jsAlerts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTesting" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/jsAlerts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.jsAlerts" />
+        <item itemvalue="Python.UiControls" />
+        <item itemvalue="Python.QAClickDynDrop" />
+        <item itemvalue="Python.dropdowns" />
         <item itemvalue="Python.Forms" />
-        <item itemvalue="Python.locator" />
-        <item itemvalue="Python.XDF" />
-        <item itemvalue="Python.newxd" />
-        <item itemvalue="Python.tyca" />
       </list>
     </recent_temporary>
   </component>
