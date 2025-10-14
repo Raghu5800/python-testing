@@ -11,9 +11,4 @@ vege = driver.find_element(By.CSS_SELECTOR, ".search-keyword")
 vege.send_keys("Brocolli")
 
 
-
-
-
-
-
 driver.close()
