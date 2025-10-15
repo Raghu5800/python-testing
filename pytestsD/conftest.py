@@ -1,5 +1,5 @@
 import pytest
-
+from selenium import webdriver
 # fixtures are used as setup to run before test [eg open browser]
 # u can create a conftest file to use it as base class to invoke from there with a func name
 
@@ -21,3 +21,12 @@ def crossBrowser(request):
     return request.param
 
 # to create html reports for pytest > download from pypi html report & to generate "pytest -v --html=report.html --self-contained-html"
+
+browserName = "chrome"
+@pytest.fixture(scope="function")
+def browserInstance():
+    if browserName == "chrome":
+        driver = webdriver.Chrome()
+        driver.implicitly_wait(4)
+        yield driver
+        driver.quit()
